@@ -19,7 +19,7 @@ import pandas as pd
 # In[2]:
 
 
-dataset_train = pd.read_csv('input/newtrain.csv')
+dataset_train = pd.read_csv('newtrain.csv')
 
 
 # In[3]:
